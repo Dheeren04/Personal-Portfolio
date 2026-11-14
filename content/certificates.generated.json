@@ -1,0 +1,26 @@
+[
+  {
+    "id": "deloitte-certificate",
+    "fileName": "Deloitte_Certificate.jpg",
+    "fileUrl": "/certificates/Deloitte_Certificate.jpg",
+    "thumbUrl": "/certificates/Deloitte_Certificate.jpg",
+    "isPdf": false,
+    "title": "Data Analytics Job Simulation",
+    "issuer": "Deloitte (via Forage)",
+    "year": "2026",
+    "description": "Completed practical, job-simulated tasks in data analysis and forensic technology, replicating real Deloitte analyst workflows.",
+    "priority": 1
+  },
+  {
+    "id": "cisco-networking-essentials",
+    "fileName": "cisco-networking-essentials.jpg",
+    "fileUrl": "/certificates/cisco-networking-essentials.jpg",
+    "thumbUrl": "/certificates/cisco-networking-essentials.jpg",
+    "isPdf": false,
+    "title": "Cisco Networking Essentials",
+    "issuer": "Cisco Networking Academy",
+    "year": "2026",
+    "description": "Built foundational knowledge of networking concepts and database/data-infrastructure fundamentals relevant to data-driven systems.",
+    "priority": 2
+  }
+]
